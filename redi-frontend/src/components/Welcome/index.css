@@ -1,0 +1,15 @@
+.welcome {
+    background-color: #34495e;
+    color: white;
+    
+    padding: 9rem 0;
+}
+
+.welcome div {
+    font-size: 1.8em;
+    font-weight: 300;
+}
+
+.welcome div span {
+    font-weight: 800;
+}
